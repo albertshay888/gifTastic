@@ -1,4 +1,4 @@
-# giftastic
+# gifTastic
 
 DEMO: https://albertshay888.github.io/gifTastic/
 
