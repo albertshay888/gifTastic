@@ -1,0 +1,58 @@
+body, html {
+    height: 100%;
+}
+.fav {
+    text-align: center;
+}
+
+.bg {
+    background-image: url("../images/background2.jpg");
+}
+
+h4 {
+    font-size: 18px;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+#buttonBar{
+    min-height: 50px;
+}
+
+.gifButton {
+    margin: 5px;
+}
+
+.card-body {
+    padding: 10px;
+    text-transform: uppercase;
+    background-color: #fef0d5;
+}
+
+#sideBar {
+    color: white;
+    background-color: #046eaf;
+}
+
+.form-control {
+    background-color: white;
+}
+
+.far {
+    color: black;
+}
+
+.fas {
+    color: blueviolet;
+}
+
+#favGifs {
+    color: black;
+    font-size: 12px;
+}
+
+.favorites {
+    margin-bottom: 10px;
+}
